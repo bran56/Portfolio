@@ -1,4 +1,4 @@
-# 🎮 [Fox Dude]
+# 🎮 Fox Dude
 
 ![Main Menu](https://github.com/user-attachments/assets/4ada5e80-6bc0-499d-954b-c91f810aca08)
 
