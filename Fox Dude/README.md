@@ -22,8 +22,9 @@ A 2D platformer developed in Unity inspired by early platformer games, like Supe
 
 | Main Menu | Gameplay | Platforming |
 |----------|----------|--------------|
-| [1_Main Menu](https://github.com/user-attachments/assets/21f02b5e-6eb9-4315-816f-737dd8823807)
- |  |  |
+| [Main Menu](https://github.com/user-attachments/assets/21f02b5e-6eb9-4315-816f-737dd8823807)
+ | ![Shoot](https://github.com/user-attachments/assets/8ee73652-688f-485d-963e-94609b60ed9b)
+ | ![Jump](https://github.com/user-attachments/assets/b3e8ba9c-610e-45ee-b632-f14b5ee53c90) |
 
 ## 🎯 What I Focused On
 - Collaborated with level design.
