@@ -32,5 +32,5 @@ A 2D platformer developed in Unity inspired by early platformer games, like Supe
 ## 🔍 Development Summary
 This project was developed alongside my brother for a class in college.
 
-## Disclaimer
-⚠️ This repository is for portfolio presentation only — the full Unity project is private.
+## ⚠️ Disclaimer
+This repository is for portfolio presentation only — the full Unity project is private.
