@@ -25,13 +25,13 @@ A 3D first person shooter game inspired by classic FPS games such as Doom and Qu
 ## 🎨 Screenshots
 
 | Main Menu | Gameplay | Boss Fight |
-|----------|----------|--------------|
+|-----------|----------|------------|
 | ![Main Menu](https://github.com/user-attachments/assets/8b223367-5a3f-4099-90d2-686cfa0452fc) | ![Shooting](https://github.com/user-attachments/assets/dee3fe31-fa6c-4834-99d0-e65b43b2fe7e) | ![Boss Fight](https://github.com/user-attachments/assets/97056747-6eeb-49ba-b134-a62a896f9def) |
 
 ## 🎥 Demos
 
 | Action Gameplay | Special Skill | Boss Fight | 
-|----------|----------|--------------|
+|-----------------|---------------|------------|
 | ![Room Clearing](https://github.com/user-attachments/assets/74f1213b-ea8f-4adf-ad49-edc84a7be505) | ![Special Skill](https://github.com/user-attachments/assets/bed70f48-952a-4bdf-921a-2435697cd2c2) | ![Boss Fight](https://github.com/user-attachments/assets/3051a1a9-d746-43fb-93aa-2bf687309301)
 
 ## 🎯 What I Focused On
