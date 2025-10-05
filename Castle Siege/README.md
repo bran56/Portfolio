@@ -35,13 +35,8 @@ A 2.5D physics puzzle game inspired by Angry Birds and Crush the Castle.
 
 | Main Menu | Single Shot | Triple Shoot | Explosive Shoot | Explosion | Flammable |
 |-----------|-------------|--------------|-----------------|-----------|-----------|
-| ![Main Menu and Store](https://github.com/user-attachments/assets/47165cc5-0907-4b9a-9f6c-d37b7370cec6)
- | ![Single Shot](https://github.com/user-attachments/assets/776641c0-1232-487e-a9d0-a2a807c5c844)
- | ![Triple Shot-cut](https://github.com/user-attachments/assets/53caa721-7184-4838-8603-82b81fa70167)
- | ![Explosive Shot-cut](https://github.com/user-attachments/assets/3e29826b-0901-43d9-b8f5-4171ac264e28)
- | ![KABOOM-cut](https://github.com/user-attachments/assets/204bda8d-9c15-45a9-9553-41eb2c49e239)
- | ![Flammable Material-cut](https://github.com/user-attachments/assets/d5f13e24-95b8-442a-aa2a-dcb246aca6b9)
- |
+| ![Main Menu and Store](https://github.com/user-attachments/assets/47165cc5-0907-4b9a-9f6c-d37b7370cec6) | ![Single Shot](https://github.com/user-attachments/assets/776641c0-1232-487e-a9d0-a2a807c5c844) | ![Triple Shot-cut](https://github.com/user-attachments/assets/53caa721-7184-4838-8603-82b81fa70167) | ![Explosive Shot-cut](https://github.com/user-attachments/assets/3e29826b-0901-43d9-b8f5-4171ac264e28) | ![KABOOM-cut](https://github.com/user-attachments/assets/204bda8d-9c15-45a9-9553-41eb2c49e239) | ![Flammable Material-cut](https://github.com/user-attachments/assets/d5f13e24-95b8-442a-aa2a-dcb246aca6b9)
+
 ## 🎯 What I Focused On
 - 
 
