@@ -29,11 +29,7 @@ A 2.5D physics puzzle game inspired by Angry Birds and Crush the Castle.
 
 | Main Menu | Castle | Special Skill | Explosion |
 |-----------|--------|---------------|-----------|
-| ![Main Menu](https://github.com/user-attachments/assets/698e5605-baff-4e7d-95e3-16eebceb93c5)
- | ![Castle](https://github.com/user-attachments/assets/098ec6b8-302d-4953-b895-7c84acc8fc68)
- | ![Knight's Special Skill](https://github.com/user-attachments/assets/f93941ec-778f-4955-ac24-e3732e1bff46)
- | ![KABOOM](https://github.com/user-attachments/assets/e3461577-b178-423e-bb29-a25926bc0596)
- |
+| ![Main Menu](https://github.com/user-attachments/assets/698e5605-baff-4e7d-95e3-16eebceb93c5) | ![Castle](https://github.com/user-attachments/assets/098ec6b8-302d-4953-b895-7c84acc8fc68) | ![Knight's Special Skill](https://github.com/user-attachments/assets/f93941ec-778f-4955-ac24-e3732e1bff46) | ![KABOOM](https://github.com/user-attachments/assets/e3461577-b178-423e-bb29-a25926bc0596)
 
 ## 🎥 Demos
 
